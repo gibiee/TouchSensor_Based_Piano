@@ -12,19 +12,11 @@
 <img src="./readme/piano.jpg" width="50%">
 
 ## 시연 영상
-- (readme 폴더의 show_1~4.mp4 파일 참고)
-
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU"
-frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-
-{% include show.html id="YOytLNYb4bQ" %}
-
-{% youtube YOytLNYb4bQ %}
-
+(readme 폴더의 show_1~4.mp4 파일 참고)
+- show_1.mp4 : https://youtu.be/YOytLNYb4bQ
+- show_2.mp4 : https://youtu.be/7Qr1-RToxqE
+- show_3.mp4 : https://youtu.be/3m3WhWcfYTA
+- show_4.mp4 : https://youtu.be/9uLY9Psj65s
 
 ## 발생 문제
 - 노트북 충전기가 연결된 상태에서만 피에조 부저가 울리는 현상.
