@@ -9,7 +9,11 @@
 - 안드로이드 어플을 통해 녹음 및 재생 기능을 구현한다.
 
 ## 피아노 구현 사진
-<img src="./readme/piano.jpg" width="50%">
+<img src="./readme/piano.jpg" width="40%">
+
+## 파일 설명
+- Touch_Based_Piano.ino : 아두이노 피아노 스케치 파일
+- BluetoothApp : 피아노와 블루투스 통신하기 위한 안드로이드 어플
 
 ## 시연 영상
 (readme 폴더의 show_1~4.mp4 파일 참고)
